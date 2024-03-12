@@ -4,6 +4,7 @@
 using namespace std;
 int main()
 {
+  //check
   int n,q;
   cin>>n>>q;
   vector<int> arr(n);
